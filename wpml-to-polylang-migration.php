@@ -8,7 +8,7 @@
  * Plugin name:          WPML to Polylang Migration
  * Description:          Import multilingual data from WPML into Polylang
  * Author:               Olympusat
- * Version:              1.0
+ * Version:              1.0.0
  * Requires at least:    4.9
  * Requires PHP:         5.6
  * Text Domain:          wpml-to-polylang-migration
