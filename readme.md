@@ -28,6 +28,12 @@ WordPress.
 
 ---
 
+## Note
+
+This does not remove WPML from your system. Use WPML's removal tools to do that. See: https://wpml.org/faq/how-wpml-reset-works/
+
+---
+
 ## Warning
 
 This is a major migration of data, you should create a backup of your data before you run this tool. Use at your own risk.
